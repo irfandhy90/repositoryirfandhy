@@ -6,6 +6,8 @@ pada lab2 latihan1 saya di beri tugas seperti di bawah ini :
 
 ![img](gambar/ss1.png)
 
+untuk mengerjakan saya menggunakan syintax di bawah :
+
     N=int(input("banyaknya data = "))
     if N>0:
         i=1
@@ -30,6 +32,8 @@ soal
 pada lab 2 latihan 2 saya mendapat soal berikut :
 
 ![img](gambar/ss2.png)
+
+untuk mengerjakan saya menggunakan syntax di bawah ini :
 
     data = []
     for i in range (5):
